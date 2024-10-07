@@ -1,5 +1,7 @@
 // TODO: we need to add the missing classes!
 
+// OK, I will add `Adder` and s30943 will add `Subtractor`.
+
 public class main {
     public static void main(String[] args) {
         Adder adder = new Adder();
