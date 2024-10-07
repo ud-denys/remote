@@ -2,7 +2,7 @@
 
 // OK, I will add `Adder` and s30943 will add `Subtractor`.
 
-public class main {
+public class Main {
     public static void main(String[] args) {
         Adder adder = new Adder();
         System.out.println(adder.add(1,2));
